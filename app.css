@@ -40,3 +40,8 @@ main{
     bottom: 5%;
     left: 10%;
 }
+
+.avatar{
+    width: 70px;
+    height: 70px;
+}
